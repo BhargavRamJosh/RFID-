@@ -27,8 +27,6 @@ It allows users to **mark attendance by scanning RFID cards**, and the records c
 
 ---
 
-## 📂 Project Structure
-
 ---
 
 ## ⚡ How It Works
@@ -45,25 +43,25 @@ It allows users to **mark attendance by scanning RFID cards**, and the records c
 
 ## 🌐 Web Interface Screenshots
 ### ✅ Home Page
-![Home Page](images/homepage.jpg)
+![Home Page](homepage.jpg)
 
 ### ✅ Attendance Page
-![Attendance Page](images/Attendancepage.jpg)
+![Attendance Page](Attendancepage.jpg)
 
 ---
 
 ## 🖼 Circuit Diagram
-![Circuit Diagram](images/circuitdiagram.png)
+![Circuit Diagram](circuitdiagram.png)
 
 ---
 
 ## 📷 Implementation
-![Implementation](images/implementation.jpg)
+![Implementation](implementation.jpg)
 
 ---
 
 ## ▶️ Working Video
-[Click to view working video](workingvideo.mp4)
+[![Watch the video](homepage.jpg)](workingvideo.mp4)
 
 ---
 
@@ -79,4 +77,8 @@ It allows users to **mark attendance by scanning RFID cards**, and the records c
    ```cpp
    const char* ssid = "YOUR_WIFI_SSID";
    const char* password = "YOUR_WIFI_PASSWORD";
+
+
+## 📂 Project Files
+
 
